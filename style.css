@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+ 
+h2{
+    font-size: 30px;
+}
+ 
+h3{
+    font-size: 25px;
+}
+ 
+h5{
+    font-size: 20px;
+}
+ 
+#page{
+    width: 600px;
+    background-color: #E0E0E0;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    padding: 20px;
+}
+ 
+header{
+    text-align: center;
+}
+ 
+img{
+    width: 50px;
+    margin: 15px ;
+}
+ 
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: #660000;
+}
+ 
+span{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    justify-content: right;
+}
